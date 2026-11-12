@@ -35,5 +35,5 @@ I am a Software Engineer focused on building functional, scalable web applicatio
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/florencia-paredes-183588204(https://linkedin.com)
+- **LinkedIn:** www.linkedin.com/in/florencia-paredes-183588204
 - **Email:** pazflopave@gmail.com
