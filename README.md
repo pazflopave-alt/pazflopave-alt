@@ -25,12 +25,6 @@ I am a Software Engineer focused on building functional, scalable web applicatio
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pazflopave-alt&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=pazflopave-alt&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
