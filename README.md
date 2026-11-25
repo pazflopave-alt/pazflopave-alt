@@ -1,4 +1,4 @@
- Hi  I'm Florencia Paredes
+ Hi 
 Junior Software Engineer | Full-Stack & Systems Developer
 
 I am a Software Engineer focused on building functional, scalable web applications integrated with modern automation and management solutions. Passionate about clean code architecture, autonomous work in remote environments, and continuous learning.
