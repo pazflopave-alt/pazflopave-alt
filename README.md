@@ -1,4 +1,4 @@
- Hi im Florencia Paredes 
+ Hi im Florencia Paredes Vejar 
 Junior Software Engineer | Full-Stack & Systems Developer
 
 I am a Software Engineer focused on building functional, scalable web applications integrated with modern automation and management solutions. Passionate about clean code architecture, autonomous work in remote environments, and continuous learning.
